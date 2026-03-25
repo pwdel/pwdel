@@ -1,4 +1,4 @@
-# pwdel
+# Patrick W. Delaney
 
 [pwdel.github.io](https://pwdel.github.io/)
 
